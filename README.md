@@ -1,11 +1,11 @@
 # MyBB_Theme_Olive
 
-Olive v1.1
+Olive v1.3
 » About:
 
 This is a simple dark theme for MyBB enthusiasts styled similar to the ACP Style of the same name.
 
-Olive v1.1
+Olive v1.3
 » Installation:
 
 1.) After downloading the Theme unpack it (with 7-Zip for example)
@@ -14,15 +14,17 @@ Olive v1.1
 4.) Search for the XML File titled "Olive-theme.xml" in the theme folder found on your computer and click the Button "Import Theme" this will upload the file from your computer to your forum.
 5.) Now have fun with your forum!
 
-Olive v1.1
+Olive v1.3
 » License:
 
 You may not remove or change the MyBB copyright nor the Designed by: "Vintagedaddyo" statements in the footer of this theme's templates. You may use and modify this theme to your personal likings, but redistributing a modified version for download is prohibited, unless you have explicit written permission from "Vintagedaddyo", though you are allowed to redistribute a copy that has not been modified.
 
-Olive v1.1
+Olive v1.3
 » Changelog:
 
 History:
+
+03/19/2022 — Theme updated for 1.8.30
 09/11/2018 — Theme updated for 1.8.19
 08/30/2018 — Theme updated for 1.8.18
 04/21/2016 — Initial Theme Creation
